@@ -134,7 +134,8 @@ ORDER BY accounts.account_name;
 
 The ETL pipeline's architectural diagram is included in this repository. It visualizes the stages of data extraction, transformation, and loading.
 
-![ETL Pipeline Architecture](architecture_diagram.png)
+
+![DALL·E 2024-09-01 16 40 01 - An architectural diagram of an ETL pipeline consisting of three main stages_ Extraction, Transformation, and Loading  __1  __Extraction Stage___ _- A ](https://github.com/user-attachments/assets/053bfe4c-0580-4511-b4e1-4fc95bb3a460)
 
 ## Git Workflow
 
